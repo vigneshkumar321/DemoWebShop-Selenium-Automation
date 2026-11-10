@@ -164,9 +164,9 @@ The browser can also be changed through the TestNG XML parameter.
 
 ## Author
 
-**Muthupandiyan K**
+**vigneshkumar B**
 
-B.E. Computer Science and Engineering
+BCA(Computer Application)
 
 ## Purpose
 
